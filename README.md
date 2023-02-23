@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is **Lauren**
+#### I'm a Junior Front End Dev
+![I'm a Junior Front End Dev](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
 
-<!--
-**laurenpaigehill/laurenpaigehill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm Lauren and I'm currently working on my skills to be a Front End Developer
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
