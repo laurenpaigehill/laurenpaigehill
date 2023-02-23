@@ -1,4 +1,4 @@
-![Header](./git-header-1.png)
+![Header](./github6.png)
 
 Hi, I'm **Lauren** and I'm currently working on my skills to be a Front End Developer
 
